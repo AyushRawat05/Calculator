@@ -1,0 +1,45 @@
+.calci
+{
+width: 200px;
+border: 2px solid black;
+background: rgb(9,117,167);
+background: linear-gradient(225deg, rgba(9,117,167,1) 23%, rgba(142,180,150,1) 44%, rgba(63,187,204,1) 70%, rgba(163,30,255,1) 89%);
+margin-left: 42%;
+margin-top: 10%;
+}
+
+.cal
+{
+border: 2px solid black;
+width: 85%;
+margin-left: 10px;
+margin-top: 10px;
+font-size: 25px;
+}
+
+.btn
+{
+width: 45px;
+height: 45px;
+margin: 3px;
+}
+
+#calculator
+{
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+}
+
+body
+{
+background-image: url(dark-blue-wide-background-with-radial-blurred-gradient-vector.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+h1
+{
+    margin-left: 42%;
+    
+}
+
